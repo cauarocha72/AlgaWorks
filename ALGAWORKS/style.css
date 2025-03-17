@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    
+
+}
+.navbar-header{
+    background-color:darkcyan ;
+
+}
+#AlgaWorks{
+ padding-top: 30px;
+}
+.form-group{
+    padding: 6px;
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style-type: none;
+}
